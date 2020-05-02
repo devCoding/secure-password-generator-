@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace PassWord_genrator
 {
-    /*This Code Its For Free Not For Sale 
+    /* 
      DEV.Mohammed Alshawesh*/
     public partial class Form1 : Form
     {
